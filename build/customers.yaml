@@ -1,0 +1,7 @@
+customers:
+  - card_number: "1234-5678-9876-5432"
+    pin: "1234"
+    initial_balance: 100
+  - card_number: "2345-6789-8765-4321"
+    pin: "5678"
+    initial_balance: 200
